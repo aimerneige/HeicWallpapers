@@ -17,7 +17,7 @@ Archlinux
 
     yay -S plasma5-wallpapers-dynamic
 
-Ubuntu 20.10
+Kubuntu 20.10
 
     sudo apt install plasma-wallpaper-dynamic
 

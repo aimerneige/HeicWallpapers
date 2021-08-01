@@ -25,6 +25,8 @@ Ubuntu 20.10
 
 Right click on desktop and select `Config Desktop and Wallpaper`, add wallpaper files to your wallpaper library.
 
+Look at the release and there are `A Certain Magical Index.heic` which is too big.
+
 ## Thanks
 
 <https://clinux.co/d/162-kde-heic>
